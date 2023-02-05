@@ -1,7 +1,10 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
-func main(){
-	fmt.Println(1231)
+
+func main() {
+	fmt.Println(123)
 }
