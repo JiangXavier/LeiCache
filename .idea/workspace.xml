@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f00d25f-bc77-4bd2-84e9-eb0463023984" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LeiCache.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeiCache/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeiCache/byteview.go" beforeDir="false" afterPath="$PROJECT_DIR$/LeiCache/byteview.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeiCache/cache.go" beforeDir="false" afterPath="$PROJECT_DIR$/LeiCache/cache.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeiCache/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/LeiCache/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeiCache/http.go" beforeDir="false" afterPath="$PROJECT_DIR$/LeiCache/http.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeiCache/leicache.go" beforeDir="false" afterPath="$PROJECT_DIR$/LeiCache/leicache.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeiCache/leicache_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/LeiCache/leicache_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeiCache/peers.go" beforeDir="false" afterPath="$PROJECT_DIR$/LeiCache/peers.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
