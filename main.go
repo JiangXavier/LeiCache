@@ -23,6 +23,7 @@ var db = map[string]string{
 }
 
 func createGroup() *leicache.Group {
+	// GetterFunc realize the Getter
 	return leicache.NewGroup("scores", 2<<10, leicache.GetterFunc(
 		func(key string) ([]byte, error) {
 			log.Println("[SlowDB] search key", key)

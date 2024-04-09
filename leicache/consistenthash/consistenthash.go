@@ -10,9 +10,9 @@ type Hash func(data []byte) uint32
 
 // Map hash cycle
 type Map struct {
-	hash      Hash
-	numVisual int
-	keys      []int
+	hash      Hash           // hash function
+	numVisual int            // number of the visual machines
+	keys      []int          // all the hash keys
 	mapping   map[int]string // map from the visual machine to actual machine
 }
 
@@ -40,7 +40,7 @@ func (m *Map) Add(keys ...string) {
 	sort.Ints(m.keys)
 }
 
-// Get the closest item as the machine
+// Get the closest item as the machine(search node)
 func (m *Map) Get(key string) string {
 	if len(m.keys) == 0 {
 		return ""
